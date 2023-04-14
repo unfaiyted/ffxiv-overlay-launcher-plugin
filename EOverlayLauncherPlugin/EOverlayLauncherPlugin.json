@@ -1,0 +1,13 @@
+{
+  "Author": "unfaiyted",
+  "Name": "Electron Overlay Launcher",
+  "Punchline": "Electron Overlay Manager for Linux (and other?)",
+  "Description": "Allows you to launch the overlays with /eoverlays.",
+  "InternalName": "electron-overlay-launcher",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "overlays",
+    "plugin",
+    "electron"
+  ]
+}
